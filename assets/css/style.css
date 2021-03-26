@@ -180,6 +180,7 @@ section {
 
 .steps div {
     margin-bottom: 80px;
+    text-align: center;
 }
 
 .steps img {
@@ -223,14 +224,6 @@ section {
     padding: 35px;
     float: left;
     width: 65%;
-}
-
-.text-left {
-    text-align: left;
-}
-
-.text-right {
-    text-align: right;
 }
 
 .trainer-bio h3 {
@@ -289,6 +282,14 @@ section {
 }
 
 /*reach out styles end*/
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
 
 .flex-row {
     display: flex;
